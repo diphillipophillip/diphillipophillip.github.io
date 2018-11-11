@@ -1,11 +1,11 @@
 # Site settings
 author: Phillip DiPhillipo
-title: 
+title: Coding Diaries 
 header-img: img/home-bg.png
 email: diphillipophillip@gmail.com
 copyright_name: Phillip DiPhillipo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Accumulating thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  diphillipophillip
